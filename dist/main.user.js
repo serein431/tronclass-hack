@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name        畅课 Hack
-// @version     1.0.5
-// @grant       unsafeWindow
-// @include     /^http:\/\/courses.cuc.edu.cn\/course\/\d+\/learning-activity\/full-screen#\/\d+$/
-// @downloadURL https://github.com/CUC-Life-Hack/tronclass-hack/raw/master/dist/main.user.js
-// @updateURL   https://github.com/CUC-Life-Hack/tronclass-hack/raw/master/dist/main.user.js
+// @version     1.0.6
+// @match       https://courses.cuc.edu.cn/course/*/learning-activity/full-screen*
+// @match       http://courses.cuc.edu.cn/course/*/learning-activity/full-screen*
+// @run-at      document-end
 // ==/UserScript==
 
 /*! For license information please see main.js.LICENSE.txt */
