@@ -13,7 +13,7 @@
 
 ## 安装
 
-发布路径：https://github.com/CUC-Life-Hack/tronclass-hack/blob/master/dist/main.user.js
+发布路径：[https://github.com/CUC-Life-Hack/tronclass-hack/blob/master/dist/main.user.js](https://github.com/serein431/tronclass-hack/blob/master/dist/main.user.js)
 
 安装方法：请参阅 [TamperMonkey 使用说明](https://github.com/CUC-Life-Hack/.github/wiki/Tampermonkey-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)。
 
