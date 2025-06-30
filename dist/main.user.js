@@ -3,7 +3,7 @@
 // @version     1.0.6
 // @match       https://courses.cuc.edu.cn/course/*/learning-activity/full-screen*
 // @match       http://courses.cuc.edu.cn/course/*/learning-activity/full-screen*
-// @run-at      document-end
+// @run-at      document-idle
 // ==/UserScript==
 
 /*! For license information please see main.js.LICENSE.txt */
